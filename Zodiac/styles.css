@@ -1,0 +1,23 @@
+h1{
+  color: #BF211E;
+  margin-left: 600px;
+  margin-right: 630px;
+  background-color: Crimson;
+
+}
+
+body{
+  background-color: #69140E;
+  border: 10px soild #BF211E;
+}
+
+img{
+  height: 200px;
+  margin-left: 540px;
+  margin-right: 200px;
+}
+
+input{
+  margin-left: 670px;
+  height: 30px;
+}

@@ -1,0 +1,14 @@
+div{
+  background-color: darkgray;
+  border: 5px solid black;
+  margin-left: 300px;
+  margin-right: 300px
+}
+img{
+  border-radius: 50%;
+  height: 100px;
+  margin-bottom: : 700px
+
+body{
+  background-image:linear-gradient(darkpurple, black);
+}
